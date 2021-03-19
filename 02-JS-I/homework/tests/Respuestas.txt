@@ -1,0 +1,20 @@
+Las variables sirven para guardar o almacenar algo, como valores o datos que se van a usar más tarde.
+Para eso se le asigna un nombre con el que se podrá acceder a su contenido. El contenido se puede cambiar
+a no ser que se declare una variable constante asi su contenido no podra ser pisado o modificado.
+
+Strings se le llama a una cadena o bloque de letras o números encerrados entre comillas, puede ser cualquier 
+palabra, letras o un sólo numero, siempre y cuando empiecen y terminen en comillas. 
+
+las funciones sirven para agrupar códigos y asi ejecutarlos más tarde, de esta forma "facilita" el trabajo
+evitando que se escriban códigos de mas cuando se necesitam repetirlos muchas veces. A las funciones se le 
+puede, asignar uno, ninguno o varios argumentos o variables entre paréntesis al lado del nombre de la función.
+Para que una función retorne o devuelva algo, en su codigo se debe poner la palabra return, esta es la unica 
+forma de acceder a los datos fuera de la función. De lo contrario retornará solo undefined, porque fuera de la 
+función los datos no estaran definidos y no podrán ser usados. Esto se llama Scope (“alcance”). La única forma 
+de acceder a algo dentro de la función es devolverlo.
+
+Las declaraciones son tomadas por las funciones y por medio de dos operadores: 
+De control de flujo: Se utiliza la palabra clave 'if', en español si...(se da tal condición).La función 
+verifica si es verdadera, retornará true y se detendrá. Si es falsa omitirá el código y devolverá false. 
+De comparación: Utiliza los símbolos > (mayor qué) < (menor qué) == (para comparar) === (para igualar) entre
+otros; Lo que hacen estos operadores es comparar dos elementos y devuelven true o false segun corresponda.
