@@ -1,0 +1,4 @@
+Los Arrays o arreglos, son variables que almacenan otro conjunto de variables. Se puede decir
+también que son listas de elementos ordenados. 
+Se puede almacenar todo tipo de datos y acceder luego a ellos independietemente, es decir, si se tienen 
+5 elementos se puede acceder uno por uno sin problemas. 
